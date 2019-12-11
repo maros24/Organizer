@@ -1,0 +1,7 @@
+C:\Users\Юрий\source\repos\Organizer\Menu\obj\Debug\Menu.csproj.CoreCompileInputs.cache
+C:\Users\Юрий\source\repos\Organizer\Menu\bin\Debug\Menu.dll.config
+C:\Users\Юрий\source\repos\Organizer\Menu\bin\Debug\Menu.dll
+C:\Users\Юрий\source\repos\Organizer\Menu\bin\Debug\Menu.pdb
+C:\Users\Юрий\source\repos\Organizer\Menu\obj\Debug\Menu.dll
+C:\Users\Юрий\source\repos\Organizer\Menu\obj\Debug\Menu.pdb
+C:\Users\Юрий\source\repos\Organizer\Menu\obj\Debug\Menu.csprojAssemblyReference.cache

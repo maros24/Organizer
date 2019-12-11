@@ -1,0 +1,11 @@
+C:\Users\Юрий\source\repos\Organizer\Organizer\bin\Debug\Organizer.exe.config
+C:\Users\Юрий\source\repos\Organizer\Organizer\bin\Debug\Organizer.exe
+C:\Users\Юрий\source\repos\Organizer\Organizer\bin\Debug\Organizer.pdb
+C:\Users\Юрий\source\repos\Organizer\Organizer\obj\Debug\Organizer.csprojAssemblyReference.cache
+C:\Users\Юрий\source\repos\Organizer\Organizer\obj\Debug\Organizer.csproj.CoreCompileInputs.cache
+C:\Users\Юрий\source\repos\Organizer\Organizer\obj\Debug\Organizer.exe
+C:\Users\Юрий\source\repos\Organizer\Organizer\obj\Debug\Organizer.pdb
+C:\Users\Юрий\source\repos\Organizer\Organizer\bin\Debug\Menu.dll
+C:\Users\Юрий\source\repos\Organizer\Organizer\bin\Debug\Menu.pdb
+C:\Users\Юрий\source\repos\Organizer\Organizer\bin\Debug\Menu.dll.config
+C:\Users\Юрий\source\repos\Organizer\Organizer\obj\Debug\Organizer.csproj.CopyComplete

@@ -9,3 +9,8 @@ C:\Users\Юрий\source\repos\Organizer\Organizer\bin\Debug\Menu.dll
 C:\Users\Юрий\source\repos\Organizer\Organizer\bin\Debug\Menu.pdb
 C:\Users\Юрий\source\repos\Organizer\Organizer\bin\Debug\Menu.dll.config
 C:\Users\Юрий\source\repos\Organizer\Organizer\obj\Debug\Organizer.csproj.CopyComplete
+C:\Users\Юрий\source\repos\Organizer\Organizer\bin\Debug\BusinessLogic.dll
+C:\Users\Юрий\source\repos\Organizer\Organizer\bin\Debug\BusinessLogic.pdb
+C:\Users\Юрий\source\repos\Organizer\Organizer\bin\Debug\BusinessLogic.dll.config
+C:\Users\Юрий\source\repos\Organizer\Organizer\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Юрий\source\repos\Organizer\Organizer\bin\Debug\Newtonsoft.Json.xml

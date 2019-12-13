@@ -7,7 +7,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Organizer", "Organizer\Orga
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Menu", "Menu\Menu.csproj", "{2C01F574-4451-413F-8169-B5DC80D5F7EB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FileStreaming", "FileStreaming\FileStreaming.csproj", "{6B19ABD5-DC07-4D65-A579-3062C7829658}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BusinessLogic", "FileStreaming\BusinessLogic.csproj", "{6B19ABD5-DC07-4D65-A579-3062C7829658}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

@@ -1,4 +1,5 @@
-﻿using System;
+﻿using BusinessLogic;
+using System;
 using System.Collections.Generic;
 using System.Diagnostics;
 using System.Linq;
@@ -16,10 +17,12 @@ namespace Menu
             bool flag=true;
             do
             {
+                Console.Clear();
                 Console.WriteLine("Welcome to organizer!");
+                Console.WriteLine("Please select an item");
                 Console.Write(
                     "1) Run Calculator\n" +
-                    "2) Work with files 2\n" +
+                    "2) Work with files\n" +
                     "3) Weather\n" +
                     "4) My func\n" +
                     "5) Exit\n");
@@ -31,26 +34,26 @@ namespace Menu
                         Console.Clear();
                         Console.WriteLine("Opening the calculator\n");
                         Process.Start("calc.exe");
-                        TapAny();
+                        Helper.TapAny();
                         break;
                     case 2:
-                        Console.WriteLine("Files");
-                        TapAny();
+                        FileMenu.OpenFileMenu();
+                        Helper.TapAny();
                         break;
                     case 3:
-                        Console.WriteLine("Weather");
-                        TapAny();
+                        WeatherData.GetWeather();
+                        Helper.TapAny();
                         break;
                     case 4:
                         Console.Clear();
                         Console.WriteLine("My func");
-                        TapAny();
+                        Helper.TapAny();
                         break;
                     case 5:
                         Console.Clear();
                         Console.WriteLine("Good bye!");
                         Thread.Sleep(2000);
-                        CloseProgram();
+                        Helper.CloseProgram();
                         break;
                     default:
                         Console.WriteLine("Incorrect number. Please try again!");
@@ -61,14 +64,6 @@ namespace Menu
             }
             while (flag);
             Console.ReadKey();
-        }
-        public static void CloseProgram()
-        {
-            Process.GetCurrentProcess().Kill();
-        }
-        public static void TapAny()
-        {
-            Console.WriteLine("Tap any button to return");
         }
     }
 }

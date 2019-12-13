@@ -5,3 +5,9 @@ C:\Users\Юрий\source\repos\Organizer\Menu\bin\Debug\Menu.pdb
 C:\Users\Юрий\source\repos\Organizer\Menu\obj\Debug\Menu.dll
 C:\Users\Юрий\source\repos\Organizer\Menu\obj\Debug\Menu.pdb
 C:\Users\Юрий\source\repos\Organizer\Menu\obj\Debug\Menu.csprojAssemblyReference.cache
+C:\Users\Юрий\source\repos\Organizer\Menu\bin\Debug\BusinessLogic.dll
+C:\Users\Юрий\source\repos\Organizer\Menu\bin\Debug\BusinessLogic.pdb
+C:\Users\Юрий\source\repos\Organizer\Menu\bin\Debug\BusinessLogic.dll.config
+C:\Users\Юрий\source\repos\Organizer\Menu\obj\Debug\Menu.csproj.CopyComplete
+C:\Users\Юрий\source\repos\Organizer\Menu\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Юрий\source\repos\Organizer\Menu\bin\Debug\Newtonsoft.Json.xml

@@ -1,0 +1,10 @@
+C:\Users\Юрий\source\repos\Organizer\FileStreaming\obj\Debug\BusinessLogic.csprojAssemblyReference.cache
+C:\Users\Юрий\source\repos\Organizer\FileStreaming\obj\Debug\BusinessLogic.csproj.CoreCompileInputs.cache
+C:\Users\Юрий\source\repos\Organizer\FileStreaming\bin\Debug\BusinessLogic.dll.config
+C:\Users\Юрий\source\repos\Organizer\FileStreaming\bin\Debug\BusinessLogic.dll
+C:\Users\Юрий\source\repos\Organizer\FileStreaming\bin\Debug\BusinessLogic.pdb
+C:\Users\Юрий\source\repos\Organizer\FileStreaming\obj\Debug\BusinessLogic.dll
+C:\Users\Юрий\source\repos\Organizer\FileStreaming\obj\Debug\BusinessLogic.pdb
+C:\Users\Юрий\source\repos\Organizer\FileStreaming\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Юрий\source\repos\Organizer\FileStreaming\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Юрий\source\repos\Organizer\FileStreaming\obj\Debug\BusinessLogic.csproj.CopyComplete

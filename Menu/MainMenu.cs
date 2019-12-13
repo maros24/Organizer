@@ -18,14 +18,14 @@ namespace Menu
             do
             {
                 Console.Clear();
-                Console.WriteLine("Welcome to organizer!");
-                Console.WriteLine("Please select an item");
-                Console.Write(
-                    "1) Run Calculator\n" +
-                    "2) Work with files\n" +
-                    "3) Weather\n" +
-                    "4) My func\n" +
-                    "5) Exit\n");
+                Console.WriteLine("\n{0,50}","WELCOME TO ORGANIZER, "+ Environment.UserName+"!\n");
+                Console.WriteLine(" Please select an item from Menu\n");
+                Console.Write( 
+                    " 1) Run Calculator\n" +
+                    " 2) Work with files\n" +
+                    " 3) View current weather\n" +
+                    " 4) My function\n" +
+                    " 5) Exit\n");
 
                 int.TryParse(Console.ReadLine(), out i);
                 switch (i)

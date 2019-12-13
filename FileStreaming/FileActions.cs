@@ -18,7 +18,7 @@ namespace BusinessLogic
             {
                 sw.WriteLine(textToWrite);
             }
-            Console.WriteLine("\nFile saved");
+            Console.WriteLine("\nFile saved to: "+path);
             
         }
 

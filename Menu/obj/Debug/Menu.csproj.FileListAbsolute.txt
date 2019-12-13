@@ -11,3 +11,6 @@ C:\Users\Юрий\source\repos\Organizer\Menu\bin\Debug\BusinessLogic.dll.config
 C:\Users\Юрий\source\repos\Organizer\Menu\obj\Debug\Menu.csproj.CopyComplete
 C:\Users\Юрий\source\repos\Organizer\Menu\bin\Debug\Newtonsoft.Json.dll
 C:\Users\Юрий\source\repos\Organizer\Menu\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Юрий\source\repos\Organizer\Menu\bin\Debug\Models.dll
+C:\Users\Юрий\source\repos\Organizer\Menu\bin\Debug\Models.pdb
+C:\Users\Юрий\source\repos\Organizer\Menu\bin\Debug\Models.dll.config

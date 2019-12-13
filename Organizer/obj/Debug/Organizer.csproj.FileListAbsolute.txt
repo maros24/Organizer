@@ -14,3 +14,6 @@ C:\Users\Юрий\source\repos\Organizer\Organizer\bin\Debug\BusinessLogic.pdb
 C:\Users\Юрий\source\repos\Organizer\Organizer\bin\Debug\BusinessLogic.dll.config
 C:\Users\Юрий\source\repos\Organizer\Organizer\bin\Debug\Newtonsoft.Json.dll
 C:\Users\Юрий\source\repos\Organizer\Organizer\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Юрий\source\repos\Organizer\Organizer\bin\Debug\Models.dll
+C:\Users\Юрий\source\repos\Organizer\Organizer\bin\Debug\Models.pdb
+C:\Users\Юрий\source\repos\Organizer\Organizer\bin\Debug\Models.dll.config
